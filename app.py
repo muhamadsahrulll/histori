@@ -18,4 +18,4 @@ elif option == 'Visualisasi':
     st.bar_chart(data = df, x = ['nama_gerakan'], y= 'nama_gerakan' ,use_container_width=True)
     st.write("Keterangan : Nomor dibawah adalah gerakan yang di scan sesuai index")
 else:
-    st.write("CRAZY XIAO YAN")
+    st.write("Kelompok ALTET SILAT\n1. Mokhamad Akbar Wijaya \n 2. Christina Monica Nauly \n 3. Muhamad Sahrul Syabani")
